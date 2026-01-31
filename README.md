@@ -1,4 +1,4 @@
-# IT professional portfolio
+# IT Professional Portfolio
 This portfolio presents hands-on IT projects focused on system administration, infrastructure, and enterprise environments.
 ## About Me
 
