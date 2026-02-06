@@ -1,5 +1,5 @@
 # IT Professional Portfolio
-This portfolio presents hands-on IT projects focused on system administration, infrastructure, and enterprise environments.
+This portfolio documents a progressive Active Directory lab environment, where each lab builds upon the previous one to simulate a real entreprise infrastructure.
 ## About Me
 
 I am an IT professional with hands-on experience in system administration and enterprise IT environments.
