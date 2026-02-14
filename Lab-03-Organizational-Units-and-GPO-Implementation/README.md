@@ -9,7 +9,7 @@ This lab builds upon Lab 02 (Windows Client Domain Join).
 ## Environment
 
 - Windows Server (Domain Controller)
-- Windows 10/11 Client (Domain joined)
+- Windows 10 Client (Domain joined)
 - VirtualBox (Isolated internal network)
 
 ## Tasks Performed
