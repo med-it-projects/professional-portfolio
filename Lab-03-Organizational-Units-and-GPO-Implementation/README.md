@@ -38,3 +38,9 @@ This lab builds upon Lab 02 (Windows Client Domain Join).
 ## Scope
 
 This lab demonstrates structured Active Directory organization and practical implementation of centralized policy management in an enterprise-like environment.
+
+---
+
+## Screenshots
+
+All execution proof screenshots are available in the `images` directory.
