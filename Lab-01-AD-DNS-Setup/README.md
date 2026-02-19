@@ -43,8 +43,9 @@ This lab represents the foundation of the Active Directory environment. All subs
 - User and administrative accounts created
 - Domain Controller configured with a static IP and ready for client integration
 
+---
+
 ## Screenshots
 
-Below are selected screenshots documenting the key steps of the Active Directory and DNS setup performed in this lab.
+All execution proof screenshots are available in the `images` directory.
 
-> All screenshots are provided in chronological order in the `images` directory.
