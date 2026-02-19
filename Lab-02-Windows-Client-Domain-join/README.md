@@ -26,3 +26,9 @@ Create a Windows client virtual machine, configure its network settings, and joi
 
 ## Notes
 This lab builds directly on **Lab 01 – Active Directory and DNS Setup** and is part of a progressive enterprise Active Directory lab series.
+
+---
+
+## Screenshots
+
+All execution proof screenshots are available in the `images` directory.
