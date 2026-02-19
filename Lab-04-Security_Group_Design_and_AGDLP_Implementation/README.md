@@ -95,3 +95,9 @@ This lab demonstrates the implementation of the **AGDLP model** in Active Direct
 
 No folder permissions were configured at this stage.  
 This lab focuses strictly on security group architecture and nesting logic.
+
+---
+
+## Screenshots
+
+All execution proof screenshots are available in the `images` directory.
